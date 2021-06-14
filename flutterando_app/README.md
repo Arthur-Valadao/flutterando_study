@@ -1,6 +1,6 @@
 # project
 
-A new Flutter project.
+Flutter project for Dart language training.
 
 ## Getting Started
 
